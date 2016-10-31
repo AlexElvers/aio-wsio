@@ -1,0 +1,8 @@
+*.py[cod]
+.env/
+env/
+.venv/
+venv/
+.virtualenv/
+virtualenv/
+*.egg-info
